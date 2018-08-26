@@ -1,2 +1,2 @@
 # Hello-world
-my first github exprience
+my first github exprience in finland
